@@ -1,0 +1,14 @@
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\bin\Debug\net8.0\Object-Oriented Programming.exe
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\bin\Debug\net8.0\Object-Oriented Programming.deps.json
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\bin\Debug\net8.0\Object-Oriented Programming.runtimeconfig.json
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\bin\Debug\net8.0\Object-Oriented Programming.dll
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\bin\Debug\net8.0\Object-Oriented Programming.pdb
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\obj\Debug\net8.0\Object-Oriented Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\obj\Debug\net8.0\Object-Oriented Programming.AssemblyInfoInputs.cache
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\obj\Debug\net8.0\Object-Oriented Programming.AssemblyInfo.cs
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\obj\Debug\net8.0\Object-Oriented Programming.csproj.CoreCompileInputs.cache
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\obj\Debug\net8.0\Object-Oriented Programming.dll
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\obj\Debug\net8.0\refint\Object-Oriented Programming.dll
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\obj\Debug\net8.0\Object-Oriented Programming.pdb
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\obj\Debug\net8.0\Object-Oriented Programming.genruntimeconfig.cache
+D:\_FPT_\Csharp from VS22\Object-Oriented Programming\Object-Oriented Programming\obj\Debug\net8.0\ref\Object-Oriented Programming.dll
